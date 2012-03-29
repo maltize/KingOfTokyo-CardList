@@ -1,0 +1,77 @@
+Nazwa,Koszt,Typ,Zdolność
+Acid Attack,6,Zatrzymaj,Dodatkowo 1 obrażenia na turę (nawet jeśli nie atakujesz).
+Alien Metabolism,3,Zatrzymaj,Kupowanie kart kosztuje Cię 1 mniej [Energia].
+Alpha Monster,5,Zatrzymaj,Dostajesz 1[Punkt Zwycięstwa] gdy atakujesz.
+Apartment Building,5,Odrzuć,"""+ 3[Punkt Zwycięstwa]"""
+Armor Plating,4,Zatrzymaj,Obrona przed 1 obrażeniem.
+Background Dweller,4,Zatrzymaj,Możesz przerzucić każdą [3] którą masz.
+Burrowing,5,Zatrzymaj,"Plus 1 obrażenia podczas ataku będąc w Tokyo. Zadajesz 1 obrażenie, gdy opuszczasz Tokyo, potworowi który je przejmuje."
+Camouflage,3,Zatrzymaj,Jeśli otrzymujesz obrażenia rzuć kością dla każdego punktu życia który miałbyś stracić. Jeśli wypadnie [Życie] nie tracisz punktu życia.
+Commuter Train,4,Odrzuć,"""+ 2[Punkt Zwycięstwa]"""
+Complete Destruction,3,Zatrzymaj,Jeśli wyrzucisz [1][2][3][Życie][Atak][Energia] zdobywasz dodatkowych 9[Punkt Zwycięstwa].
+Corner Store,3,Odrzuć,"""+ 1[Punkt Zwycięstwa]"""
+Dedicated News Team,3,Zatrzymaj,Zdobywasz 1[Punkt Zwycięstwa] po zakupie jakiejkolwiek karty.
+Drop from High Altitude,5,Odrzuć,"""+ 2[Punkt Zwycięstwa] i przejmujesz kontrole nad Tokyo."""
+Eater of the Dead,4,Zatrzymaj,Zdobywasz 3[Punkt Zwycięstwa] jeśli ktoregokolwiek potwóra [Życie] spadnie do 0.
+Energize,8,Odrzuć,"""+ 9[Energia]"""
+Energy Hoarder,3,Zatrzymaj,Zdobywasz 1[Punkt Zwycięstwa] za każde 6[Energia] posiadane pod koniec swojej tury.
+Evacuation Orders (x2),7,Odrzuć,Pozostałe potwory tracą 5[Punkt Zwycięstwa].
+Even Bigger,4,Zatrzymaj,Twoje maksimum [Życie] zwiększa się o 2. Zdobywasz 2[Życie] podczas zakupu tej karty.
+Extra Head (x2),7,Zatrzymaj,Dodatkowo 1 kość do rzucania.
+Fire Blast,3,Odrzuć,Zadajesz 2 obrażenie pozostałym potworom.
+Fire Breathing,4,Zatrzymaj,Twoi sąsiedzi otrzymują 1 dodatkowe obrażenia gdy zadajesz obrażenia.
+Freeze Time,5,Zatrzymaj,"Jeśli wyrzuciłeś [1][1][1] podczas tury, możesz wykonać dodatkową turę ale z jedną kostką mniej."
+Frenzy,7,Odrzuć,Jeśli kupiłeś tą kartę wykonaj dodatkową turę.
+Friend of Children,3,Zatrzymaj,Jeśli zdobywasz jakąś ilość [Energia] otrzymujesz dodatkowo 1 [Energia].
+Gas Refinery,6,Odrzuć,"""+ 2[Punkt Zwycięstwa] i zadajesz 3 obrażenia pozostałym potworom."""
+Giant Brain,5,Zatrzymaj,Dodatkowy przerzut na turę.
+Gourmet,4,Zatrzymaj,Jeśli wyrzuciłeś [1][1][1] otrzymujesz dodatkowo 2 [Punkt Zwycięstwa].
+Heal,3,Odrzuć,Leczy 2 obrażenia.
+Healing Ray,4,Zatrzymaj,Możesz leczyć inne potwory ze swojego [Życie]. Muszą zapłacić 2[Energia] za każde wyleczone obrażenie (lub oddają reszte [Energia] jeśli nie mają wystarczającej ilości).
+Herbivore,5,Zatrzymaj,Zdobywasz 1[Punkt Zwycięstwa] podczas swojej tury jeśli nie zadałeś nikomu obrażeń.
+Herd Culler,3,Zatrzymaj,Możesz ustawić na jednej z kości [1] raz podczas swojej tury.
+High Altitude Bombing,4,Odrzuć,Wszystkie potwory (wliczając Ciebie) otrzymują 3 obrażenia.
+It Has a Child,7,Zatrzymaj,"Jeżeli zostałeś wyeliminowany odrzuć wszystkie swoje karty i wyzeruj [Punkt Zwycięstwa], Zdobywasz 10[Życie] i zaczynasz od nowa."
+Jet Fighters,5,Odrzuć,"""+ 5[Punkt Zwycięstwa] i otrzymujesz 4 obrażenia"""
+Jets,5,Zatrzymaj,Nie otrzymujesz żadnych obrażeń jeśli zdecydujesz się opuścić Tokyo.
+Made in a Lab,2,Zatrzymaj,Możesz podejrzeć pierwszą kartę ze stosu i ją kupić.
+Metamorph,3,Zatrzymaj,Na końcu swojej tury możesz odrzucić któregolwiek ze swoich kart i odzyskać punkty [Energia] za które zostały zakupione.
+Mimic,8,Zatrzymaj,Wybierz kartę będącą w grze innego potwora i połóż na niej znacznik naśladowania. Stworzony został duplikat karty - zachowuje się ona tak jak byś ją kupił. Użyj 1[Energia] na początku swojej rundy jeśli chcesz zmienić naśladowaną kartę na inną.
+Monster Batteries,2,Zatrzymaj,"Po zakupie tej karty połóż na niej taką samą ilość [Energia] jaką posiadasz, pobierając ją z banku. Na początku każdej tury (każdego z graczy) zdejmujesz 2[Energia] i zabierasz dla siebie."
+National Guard,3,Odrzuć,"""+ 2[Punkt Zwycięstwa] i otrzymujesz 2 obrażenia."""
+Nova Breath,7,Zatrzymaj,Twoje ataki zadają obrażenia wszystkim pozostałym potworom.
+Nuclear Power Plant,6,Odrzuć,"""+ 2[Punkt Zwycięstwa] i leczy 3 obrażenia."""
+Omnivore,4,Zatrzymaj,Po wyrzuceniu [1][2][3] otrzymujesz 2[Punkt Zwycięstwa]. Możesz użyć tych kości w przerzuceniu.
+Opportunist,3,Zatrzymaj,"Jeśli nowa karta jest odkrywana, masz prawo kupić ją od razu, pierwszy, bez czekania na swoją kolejkę."
+Parasitic Tentacles,4,Zatrzymaj,Możesz kupować karty innych potworów płacąc odpowiednią ilość [Energia].
+Plot Twist,3,Zatrzymaj,Ustaw samemu wartość na jednej z kości. Odrzuć kartę po użyciu.
+Poison Quills,3,Zatrzymaj,Po wyrzuceniu [2][2][2] również zadajesz 2 obrażenia.
+Poison Spit,4,Zatrzymaj,Jeśli zadajesz obrażenia potworom daj im znacznik trucizny. Potwory otrzymują 1 obrażenie za każdy znacznik trucizny pod koniec swojej tury. Można pozbyć się trucizny za pomocą [Życie] (w tym przypadku [Życie] nie leczy obrażeń).
+Psychic Probe,3,Zatrzymaj,"Możesz przerzucić kość innego gracza, raz na jego turę. Jeżeli wypadło [Życie] odrzuć tą kartę."
+Rapid Healing,3,Zatrzymaj,Użyj 2[Energia] aby wyleczyć 1 obrażenie.
+Regeneration,4,Zatrzymaj,"Gdy leczysz, wylecz dodatkowo 1 obrażenie."
+Rooting for the Underdog,3,Zatrzymaj,Pod koniec tury gdy masz najmniej [Punkt Zwycięstwa] otrzymujesz 1 [Punkt Zwycięstwa].
+Shrink Ray,6,Zatrzymaj,Jeśli zadajesz obrażenia potworom daj im znacznik zmniejszenia. Potwór będzie rzucał tyloma kośćmi mniej ile ma znaczników zmniejszenia. Można pozbyć się zmniejszenia za pomocą [Życie] (w tym przypadku [Życie] nie leczy obrażeń).
+Skyscraper,6,Odrzuć,"""+ 4[Punkt Zwycięstwa]"""
+Smoke Cloud,4,Zatrzymaj,Karta zaczyna z 3 znacznikami dymu. Możesz użyć dymu dla dodatkowego przerzucenia kości. Odrzuć tą kartę gdy wykorzystałeś już wszystkie znaczniki.
+Solar Powered,2,Zatrzymaj,Pod koniec tury otrzymujesz 1[Energia] jeśli nie masz [Energia].
+Spiked Tail,5,Zatrzymaj,Gdy atakujesz zadajesz dodatkowo 1 obrażeń.
+Stretchy,3,Zatrzymaj,Możesz użyć 2[Energia] aby zmienić samemu wartość na jednej ze swoich kości.
+Tanks,4,Odrzuć,"""+ 4[Punkt Zwycięstwa] i otrzymujesz 3 obrażenia."""
+Telepath,4,Zatrzymaj,Użyj 1[Energia] aby otrzymać dodatkowy przerzut kości.
+Urbavore,4,Zatrzymaj,Zdobywasz 1 dodatkowy [Punkt Zwycięstwa] gdy zaczynasz ture w Tokyo. Zadajesz 1 dodatkowe obrażenia potworom gdy atakujesz będąc w Tokyo.
+Vast Storm,6,Odrzuć,"""+ 2[Punkt Zwycięstwa]. Pozostałe potwory tracą 1[Energia] za każde 2[Energia] które posiadają."""
+We're Only Making It Stronger,3,Zatrzymaj,"Gdy tracisz 2[Życie] lub więcej, otrzymujesz 1[Energia]."
+Wings,6,Zatrzymaj,Płacąc 2[Energia] negujesz obrażenia otrzymywane od innych potworów do końca tury.
+
+Amusement Park,6,Odrzuć,"""+ 4[Punkt Zwycięstwa]"""
+Army,2,Odrzuć,(+ 1[Punkt Zwycięstwa] i otrzymujesz 1 obrażenie) za każdą posiadaną kartę.
+Cannibalistic,5,Zatrzymaj,Zadając obrażenia otrzymujesz 1[Życie].
+Intimidating Roar,3,Zatrzymaj,"Potwory w Tokyo muszą je opuścić, gdy otrzymują obrażenia."
+Monster Sidekick,4,Zatrzymaj,"Jeśli ktoś cię zabije, wracasz do 10[Życie] i tracisz wszystkie swoje [Punkt Zwycięstwa]. Jeśli Ty lub Twój zabójca wygra lub pozostali gracze zostają wyeliminowani, wygrywacie oboje. Jeśli Twój zabójca jest wyeliminowany, Ty również przegrywasz. Karta działa jednorazowo."
+Reflective Hide,6,Zatrzymaj,Otrzymując obrażenia atakujący potwór otrzymuje 1 obrażenie.
+Sleep Walker,3,Zatrzymaj,Użyj 3[Energia] aby otrzymać 1[Punkt Zwycięstwa].
+Super Jump,4,Zatrzymaj,Przy każdej turze możesz użyć 1[Energia] aby zanegować 1 otrzymane obrażenie.
+Throw a Tanker,4,Zatrzymaj,"Gdy zadajesz 3 lub więcej obrażeń, otrzymujesz 2[Punkt Zwycięstwa]."
+Thunder Stomp,3,Zatrzymaj,"Jeśli zdobyłeś 4[Punkt Zwycięstwa] podczas tury, pozostali gracze rzucają jedną kością mniej do momentu Twojej kolejnej tury."
+Unstable DNA,3,Zatrzymaj,"Opuszczając Tokyo możesz zabrać kartę przeciwnikowi (zajmującemu Twoje miejsce), wręczając mu tą kartę w zamian."
